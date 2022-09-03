@@ -1,7 +1,7 @@
 body {padding-left: 10px;
     padding-right: 10px;
     color: rgb(62, 62, 62);font-family: 'Gill Sans', 'Gill Sans MT', 
-    Calibri, 'Trebuchet MS', sans-serif;
+    'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif 'Trebuchet MS', sans-serif;
   }
 #backround{
 
@@ -29,7 +29,7 @@ h2{
   #navbar a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: #e9ec44;
     text-align: center;
     padding: 14px;
     text-decoration: none;
@@ -44,4 +44,7 @@ h2{
   }
   .sticky + .content {
     padding-top: 60px;
+  }
+  body div{
+    background-image: url("");
   }
